@@ -1,0 +1,13 @@
+{
+    "name": "fernandesramon/wkhtmltox-x86_64-centos7",
+    "description": "wkhtmltopdf and wkhtmltoimage binaries for CentOS 7 x86_64.",
+    "keywords" : ["wkhtmltopdf", "wkhtmltoimage", "centos7"],
+    "license": "GPL-3.0-only",
+    "homepage": "http://wkthmltopdf.org/",
+    "minimum-stability": "stable",
+    "bin": [
+        "bin/wkhtmltoimage",
+        "bin/wkhtmltopdf"
+    ],
+    "require": {}
+}
